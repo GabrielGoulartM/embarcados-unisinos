@@ -1,0 +1,2 @@
+../Core/Src/adxl345.c:4:9:ADXL345_Init	2
+../Core/Src/adxl345.c:25:6:ADXL345_Read	1
